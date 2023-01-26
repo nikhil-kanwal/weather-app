@@ -1,0 +1,61 @@
+body {
+
+  font-family: 'Merriweather', serif;
+  color:#0D4C92;
+
+}
+
+.container {
+  
+  margin: 100px auto 100px auto;
+  background-color: #CFF5E7;
+  text-align: center;
+  padding-top: 0px ;
+  padding-bottom: 100px;
+
+}
+
+.header {
+  background-color: #59C1BD;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.form{
+  margin-top: 100px;
+}
+
+.heading {
+
+  color: white;
+  font-family: 'Merriweather', serif;
+}
+
+.button {
+
+  color:#0D4C92;
+  background-color: #A0E4CB;
+  border: none;
+  width: 60px;
+  height: 30px;
+  border-radius: 15px;
+  font-family: 'Merriweather', serif;
+  
+}
+
+.button:hover {
+
+  background-color: #59C1BD;
+
+}
+
+#cityInput {
+
+  width: 500px;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  padding-left: 20px;
+  border-color: white;
+}
